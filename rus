@@ -15,7 +15,7 @@ Promzona.space
 Gazprom
 BabyMed
 Movers
-
+Capital-Bank
 
 Образование        
 1999-2004 
@@ -34,17 +34,17 @@ Movers
 
 Основные навыки 
   Знание CSS и HTML, среды разработки Cocoa/Xcode, языки программирования Objective-C;
-  Знание SWIFT 4;
+  Знание SWIFT 5;
   Опыт создания клиент-серверных приложений; 
   Уверенное знание iOS SDK; 
 Знания архитектурных паттернов: MVP, MVVM;
-Опыт работы с системами контроля версий;
+Опыт работы с системами контроля версий GIT, GIT-Flow;
 Работа с REST API;
   Опыт работы с библиотеками : AFNetworking, SnapKit, MaterialComponents, Fabric,Crashlytics, GoogleMaps, Alamofire, RxSwift и т.д.
  Знание  UI/UX;
 
   Знание требований к релизам приложений в AppStore;
- Навыки работы с Core Data , Realm, Firebase;
+  Навыки работы с  БД: Core Data, Realm, Firebase;
   Умение разбираться в чужом коде;
   Владение техническим английским языком.
 
